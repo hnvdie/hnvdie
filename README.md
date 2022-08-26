@@ -1,1 +1,18 @@
-<img src="https://64.media.tumblr.com/a4ceca22cc9c75d182f3f1bde1b154ea/1a81e7dc134d48c3-4e/s540x810/bbd495716a2f3624ad1e234ad254d639c38a6f51.gifv">
+<img src="https://steamuserimages-a.akamaihd.net/ugc/645502556563951011/CC5D729ADCFA1162F8147DE020ED1121CC92A023/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
+
+```shell
+
+
+   [ O ]
+     \ \      p
+      \ \  \o/
+       \ \--'---_
+       /\ \   / ~~\_           hello there ~
+ ./---/__|=/_/------//~~~\
+/___________________/O   O \
+(===(\_________(===(Oo o o O)     
+ \~~~\____/     \---\Oo__o--
+   ~~~~~~~       ~~~~~~~~~~
+
+```
+
