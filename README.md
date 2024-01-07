@@ -1,14 +1,9 @@
+<details>
+<summary> PGP Fingerprint: <code>3EFE F626 BA6E A31D 037F 77AA D192 CC08 1616 30BD</code></summary>
 
-```shell
-   [ O ]
-     \ \      p
-      \ \  \o/
-       \ \--'---_             Sieg!
-       /\ \   / ~~\_
- ./---/__|=/_/------//~~~\
-/___________________/O   O \
-(===(\_________(===(Oo o o O)     
- \~~~\____/     \---\Oo__o--
-   ~~~~~~~       ~~~~~~~~~~
-```
+ ```
+-----BEGIN PGP PUBLIC KEY BLOCK----- KeyID: 0x1337
 
+mQINBGMXmXEBEACoxh0uhXJ/NA40iGiOYNob+IHU4/Ll1CBcNJHtDAjOiH7FaOzu HMxkuEsS49KLojUX9jkHAMutdV2e7pI+HEwWnS4VwNsP0p80Da7sZP7yZ/GWHCeW ft1tZ9HfP8oxtN4zliCsTejQElHQGfKJSOGxsDtGa8J9Oys8PBZETWVXrzIiYIdY VRYEN3kVyO4xpIzo7OnyfNPUezIVReN4xnj6X7oo145c/Ocg0ON3hmMbB/QhbTSQ 3diDa5SpagtidLE/MCjnCDAdIlG+5ZSMIrglPs2oLvQ7iiiVyTOSZ3qq9bXiCV6C sXs04S0AnnLPN+PvPIyy3PU/OM0TUMNS1Oo2I1cUZ6KlfmO0dYtpXPyiG8bsfdNT fRDoP8TXtjIL51gUaL8wjw77EhsoZ8UTz5cVRWY2A3DO/K2l+htho2TRubso9Oez daoXRpz3h1PKa2qbDL2iYD6KccXfM+AR2yEHI6cF34CEnHaemr3KAs+SaM38aXwx aCkBMaZa96W4bvQJRCVUVIbwcO1etrOGja4LP3OS/FPjnlm1F2aOQchOPGBr3MM+ LjNJwvQOvdQ7uSnLJ/oHCGAiRPVZlwOnJWdcEk32izk92TljKIYVNwZG8rhWLNQk R7QPPHqVQlj9c3yyqcOzj/1SUlJ7GzAgC0wHmOSiSRLWV1DKCWQMd/IDWwARAQAB tB5Ed2kgU2lzd2FudG8gKGdpdCkgPG1lQGR3MS5pbz6JAk4EEwEKADgWIQQ+/vYm um6jHQN/d6rRkswIFhYwvQUCYxeZcQIbAwULCQgHAgYVCgkICwIEFgIDAQIeAQIX gAAKCRDRkswIFhYwvUtBD/9PLtBzMaV7uoHaNannXyVgg8d6LzePTr+EpEHSYpqS icU335rGs24kDOIQbVOl5l7dE/EnOPp7AYF5xHr/eGqgYrTuwBMuvwdBNFSBejJs 00raFRwZMd1PA3MTIhBfypg2lDdKrbkilsrZBjaWcLX0Es6NN62f15Ff0eyt1KSE Gwkt2OTrKdYC+6Gj3LRm46jY5ACIgpoxxk9Y/HHALK4+wY/zn3LKf88Kj5iavidA y8MhAV0bJBrZGPhPuNwvI98W1neNU9Gh2y0bvgxFbs/YizsOHl5K0wBxrPFQxUYy QO+yeB3NpGUD0e66GsR3cWx7fmjNkq9syzOa5dYmwlr/7+R8KHzM76xdPbchuuYV 7HzhS2pRLyOKWPHaGypyEj5AmW
+   ```
+</details>
