@@ -1,4 +1,6 @@
-## Hi there 👋
+![gif](https://i.pinimg.com/originals/fa/59/6c/fa596cea24a101c9efbe209235c8b832.gif)
+
+> I don't need to git checkout anyone else; you're my favorite branch.
 
 <!--
 **hnvdie/hnvdie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
